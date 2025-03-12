@@ -1,0 +1,7 @@
+newsapi-python
+fastapi
+pydantic 
+uvicorn
+python-dotenv
+crewai
+groq

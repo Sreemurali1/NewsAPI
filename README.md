@@ -26,7 +26,7 @@ This project is a **FastAPI-based NewsAPI** that allows users to fetch the lates
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/newsapi-fastapi.git
+   git clone https://github.com/Sreemurali1/NewsAPI.git
    cd newsapi-fastapi
    ```
 
